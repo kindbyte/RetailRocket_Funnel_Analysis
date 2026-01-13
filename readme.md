@@ -9,7 +9,6 @@ Calculate funnel conversion rates (View → Cart → Purchase)
 
 🔧 Tools & Skills
 SQL: window functions, CTEs, sessionization, funnel metrics
-Tableau: funnel breakdown, time-series trends, interactive visualization
 Analytics: conversion analysis, user journey insights, KPI tracking
 
 📊 Key Findings
