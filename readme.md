@@ -1,11 +1,11 @@
-RetailRocket Funnel Analysis (SQL + Tableau)
+RetailRocket Funnel Analysis (SQL)
 
 This project analyzes e-commerce user behavior using RetailRocket event data.
 
 The main goal was to:
 Build session logic (sessionization with a 30-minute inactivity threshold)
 Calculate funnel conversion rates (View → Cart → Purchase)
-Visualize results in Tableau
+
 
 🔧 Tools & Skills
 SQL: window functions, CTEs, sessionization, funnel metrics
@@ -24,11 +24,5 @@ Overall, just 0.8% of viewing sessions resulted in a transaction
 
 📂 Project Structure
 sql/funnel_analysis.sql – SQL code for sessionization & funnel calculation
-tableau/funnel_dashboard.png – dashboard preview (funnel breakdown + session trends)
 
-🔗 Tableau Public Dashboard (https://public.tableau.com/views/RetailRocketConversionFunnelDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-🚀 Next Steps
-Add segmentation (device type, referral channel, product category)
-Perform A/B test simulation on conversion optimization strategies
-Extend with cohort analysis for retention & repeat purchase patterns
