@@ -7,8 +7,8 @@ Build session logic (sessionization with a 30-minute inactivity threshold)
 Calculate funnel conversion rates (View → Cart → Purchase)
 
 
-🔧 Tools & Skills
-SQL: window functions, CTEs, sessionization, funnel metrics
+🔧 Tools & Skills  
+SQL: window functions, CTEs, sessionization, funnel metrics  
 Analytics: conversion analysis, user journey insights, KPI tracking
 
 📊 Key Findings
